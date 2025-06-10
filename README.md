@@ -4,6 +4,8 @@ Contains the skeleton code to implement two versions of the edit distance proble
 - top down; and
 - bottom up.
 
+repo cloned and forked from original repository: [Week 8 - Dynamic Programming](https://github.com/RMIT-COSC2123-3119-AA25/rmit-cosc2123-3119-aa25-classroom-edit-distance-Edit-Distance)
+
 ## Learning Objectives
 
 Students who complete this lab will be able to:
